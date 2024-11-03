@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/contacts-app/static/css/main.d0401a64.css",
-    "main.js": "/contacts-app/static/js/main.74b52d1b.js",
-    "static/js/453.b0314a49.chunk.js": "/contacts-app/static/js/453.b0314a49.chunk.js",
-    "index.html": "/contacts-app/index.html",
-    "main.d0401a64.css.map": "/contacts-app/static/css/main.d0401a64.css.map",
-    "main.74b52d1b.js.map": "/contacts-app/static/js/main.74b52d1b.js.map",
-    "453.b0314a49.chunk.js.map": "/contacts-app/static/js/453.b0314a49.chunk.js.map"
+    "main.css": "/Resonate_project/static/css/main.d0401a64.css",
+    "main.js": "/Resonate_project/static/js/main.8604547a.js",
+    "static/js/453.b0314a49.chunk.js": "/Resonate_project/static/js/453.b0314a49.chunk.js",
+    "index.html": "/Resonate_project/index.html",
+    "main.d0401a64.css.map": "/Resonate_project/static/css/main.d0401a64.css.map",
+    "main.8604547a.js.map": "/Resonate_project/static/js/main.8604547a.js.map",
+    "453.b0314a49.chunk.js.map": "/Resonate_project/static/js/453.b0314a49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0401a64.css",
-    "static/js/main.74b52d1b.js"
+    "static/js/main.8604547a.js"
   ]
 }
